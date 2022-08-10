@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Audrey": {
+      "commandName": "Project",
+      "commandLineArgs": "--path ./Replay_The_History_of_Video_Games-LC_64_22050_stereo.aax --output-path ./Replay"
+    }
+  }
+}
